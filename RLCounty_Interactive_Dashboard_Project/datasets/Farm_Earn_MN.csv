@@ -1,0 +1,1306 @@
+id,County_State,County,Year,Farm_Earnings
+27001,"Aitkin County, MN",Aitkin County,2001,1900
+27001,"Aitkin County, MN",Aitkin County,2002,3189
+27001,"Aitkin County, MN",Aitkin County,2003,3723
+27001,"Aitkin County, MN",Aitkin County,2004,2601
+27001,"Aitkin County, MN",Aitkin County,2005,1052
+27001,"Aitkin County, MN",Aitkin County,2006,1544
+27001,"Aitkin County, MN",Aitkin County,2007,1177
+27001,"Aitkin County, MN",Aitkin County,2008,609
+27001,"Aitkin County, MN",Aitkin County,2009,-557
+27001,"Aitkin County, MN",Aitkin County,2010,10444
+27001,"Aitkin County, MN",Aitkin County,2011,4540
+27001,"Aitkin County, MN",Aitkin County,2012,2199
+27001,"Aitkin County, MN",Aitkin County,2013,3358
+27001,"Aitkin County, MN",Aitkin County,2014,3240
+27001,"Aitkin County, MN",Aitkin County,2015,3239
+27003,"Anoka County, MN",Anoka County,2001,12032
+27003,"Anoka County, MN",Anoka County,2002,14448
+27003,"Anoka County, MN",Anoka County,2003,17557
+27003,"Anoka County, MN",Anoka County,2004,14408
+27003,"Anoka County, MN",Anoka County,2005,14945
+27003,"Anoka County, MN",Anoka County,2006,13395
+27003,"Anoka County, MN",Anoka County,2007,10888
+27003,"Anoka County, MN",Anoka County,2008,12398
+27003,"Anoka County, MN",Anoka County,2009,13286
+27003,"Anoka County, MN",Anoka County,2010,15857
+27003,"Anoka County, MN",Anoka County,2011,15921
+27003,"Anoka County, MN",Anoka County,2012,20510
+27003,"Anoka County, MN",Anoka County,2013,19150
+27003,"Anoka County, MN",Anoka County,2014,20274
+27003,"Anoka County, MN",Anoka County,2015,27474
+27005,"Becker County, MN",Becker County,2001,13333
+27005,"Becker County, MN",Becker County,2002,12728
+27005,"Becker County, MN",Becker County,2003,23546
+27005,"Becker County, MN",Becker County,2004,17241
+27005,"Becker County, MN",Becker County,2005,22745
+27005,"Becker County, MN",Becker County,2006,27859
+27005,"Becker County, MN",Becker County,2007,28923
+27005,"Becker County, MN",Becker County,2008,35870
+27005,"Becker County, MN",Becker County,2009,17636
+27005,"Becker County, MN",Becker County,2010,29686
+27005,"Becker County, MN",Becker County,2011,39975
+27005,"Becker County, MN",Becker County,2012,65425
+27005,"Becker County, MN",Becker County,2013,57742
+27005,"Becker County, MN",Becker County,2014,36306
+27005,"Becker County, MN",Becker County,2015,47265
+27007,"Beltrami County, MN",Beltrami County,2001,4610
+27007,"Beltrami County, MN",Beltrami County,2002,3710
+27007,"Beltrami County, MN",Beltrami County,2003,10177
+27007,"Beltrami County, MN",Beltrami County,2004,6601
+27007,"Beltrami County, MN",Beltrami County,2005,6670
+27007,"Beltrami County, MN",Beltrami County,2006,6984
+27007,"Beltrami County, MN",Beltrami County,2007,57
+27007,"Beltrami County, MN",Beltrami County,2008,4489
+27007,"Beltrami County, MN",Beltrami County,2009,6324
+27007,"Beltrami County, MN",Beltrami County,2010,2409
+27007,"Beltrami County, MN",Beltrami County,2011,3916
+27007,"Beltrami County, MN",Beltrami County,2012,8187
+27007,"Beltrami County, MN",Beltrami County,2013,11892
+27007,"Beltrami County, MN",Beltrami County,2014,9818
+27007,"Beltrami County, MN",Beltrami County,2015,10852
+27009,"Benton County, MN",Benton County,2001,6823
+27009,"Benton County, MN",Benton County,2002,7631
+27009,"Benton County, MN",Benton County,2003,17215
+27009,"Benton County, MN",Benton County,2004,29799
+27009,"Benton County, MN",Benton County,2005,32498
+27009,"Benton County, MN",Benton County,2006,33475
+27009,"Benton County, MN",Benton County,2007,25250
+27009,"Benton County, MN",Benton County,2008,43577
+27009,"Benton County, MN",Benton County,2009,21939
+27009,"Benton County, MN",Benton County,2010,29440
+27009,"Benton County, MN",Benton County,2011,25597
+27009,"Benton County, MN",Benton County,2012,43041
+27009,"Benton County, MN",Benton County,2013,45974
+27009,"Benton County, MN",Benton County,2014,48272
+27009,"Benton County, MN",Benton County,2015,42389
+27011,"Big Stone County, MN",Big Stone County,2001,2736
+27011,"Big Stone County, MN",Big Stone County,2002,4941
+27011,"Big Stone County, MN",Big Stone County,2003,6857
+27011,"Big Stone County, MN",Big Stone County,2004,16885
+27011,"Big Stone County, MN",Big Stone County,2005,17578
+27011,"Big Stone County, MN",Big Stone County,2006,13713
+27011,"Big Stone County, MN",Big Stone County,2007,12633
+27011,"Big Stone County, MN",Big Stone County,2008,28084
+27011,"Big Stone County, MN",Big Stone County,2009,15955
+27011,"Big Stone County, MN",Big Stone County,2010,17045
+27011,"Big Stone County, MN",Big Stone County,2011,14947
+27011,"Big Stone County, MN",Big Stone County,2012,50364
+27011,"Big Stone County, MN",Big Stone County,2013,40726
+27011,"Big Stone County, MN",Big Stone County,2014,10925
+27011,"Big Stone County, MN",Big Stone County,2015,15569
+27013,"Blue Earth County, MN",Blue Earth County,2001,26045
+27013,"Blue Earth County, MN",Blue Earth County,2002,24423
+27013,"Blue Earth County, MN",Blue Earth County,2003,31363
+27013,"Blue Earth County, MN",Blue Earth County,2004,72667
+27013,"Blue Earth County, MN",Blue Earth County,2005,81839
+27013,"Blue Earth County, MN",Blue Earth County,2006,68561
+27013,"Blue Earth County, MN",Blue Earth County,2007,59854
+27013,"Blue Earth County, MN",Blue Earth County,2008,89767
+27013,"Blue Earth County, MN",Blue Earth County,2009,63399
+27013,"Blue Earth County, MN",Blue Earth County,2010,79030
+27013,"Blue Earth County, MN",Blue Earth County,2011,132021
+27013,"Blue Earth County, MN",Blue Earth County,2012,158369
+27013,"Blue Earth County, MN",Blue Earth County,2013,132974
+27013,"Blue Earth County, MN",Blue Earth County,2014,110323
+27013,"Blue Earth County, MN",Blue Earth County,2015,69910
+27015,"Brown County, MN",Brown County,2001,23191
+27015,"Brown County, MN",Brown County,2002,15232
+27015,"Brown County, MN",Brown County,2003,36079
+27015,"Brown County, MN",Brown County,2004,59056
+27015,"Brown County, MN",Brown County,2005,68819
+27015,"Brown County, MN",Brown County,2006,58534
+27015,"Brown County, MN",Brown County,2007,47974
+27015,"Brown County, MN",Brown County,2008,73744
+27015,"Brown County, MN",Brown County,2009,49086
+27015,"Brown County, MN",Brown County,2010,72365
+27015,"Brown County, MN",Brown County,2011,97066
+27015,"Brown County, MN",Brown County,2012,105075
+27015,"Brown County, MN",Brown County,2013,94453
+27015,"Brown County, MN",Brown County,2014,76820
+27015,"Brown County, MN",Brown County,2015,62506
+27017,"Carlton County, MN",Carlton County,2001,139
+27017,"Carlton County, MN",Carlton County,2002,-644
+27017,"Carlton County, MN",Carlton County,2003,1259
+27017,"Carlton County, MN",Carlton County,2004,1376
+27017,"Carlton County, MN",Carlton County,2005,491
+27017,"Carlton County, MN",Carlton County,2006,886
+27017,"Carlton County, MN",Carlton County,2007,1005
+27017,"Carlton County, MN",Carlton County,2008,-1180
+27017,"Carlton County, MN",Carlton County,2009,-2207
+27017,"Carlton County, MN",Carlton County,2010,-157
+27017,"Carlton County, MN",Carlton County,2011,-784
+27017,"Carlton County, MN",Carlton County,2012,-1790
+27017,"Carlton County, MN",Carlton County,2013,-622
+27017,"Carlton County, MN",Carlton County,2014,274
+27017,"Carlton County, MN",Carlton County,2015,70
+27019,"Carver County, MN",Carver County,2001,11403
+27019,"Carver County, MN",Carver County,2002,10075
+27019,"Carver County, MN",Carver County,2003,15518
+27019,"Carver County, MN",Carver County,2004,23410
+27019,"Carver County, MN",Carver County,2005,21268
+27019,"Carver County, MN",Carver County,2006,16475
+27019,"Carver County, MN",Carver County,2007,20633
+27019,"Carver County, MN",Carver County,2008,26962
+27019,"Carver County, MN",Carver County,2009,16067
+27019,"Carver County, MN",Carver County,2010,22282
+27019,"Carver County, MN",Carver County,2011,28607
+27019,"Carver County, MN",Carver County,2012,41889
+27019,"Carver County, MN",Carver County,2013,34255
+27019,"Carver County, MN",Carver County,2014,33013
+27019,"Carver County, MN",Carver County,2015,11015
+27021,"Cass County, MN",Cass County,2001,2910
+27021,"Cass County, MN",Cass County,2002,936
+27021,"Cass County, MN",Cass County,2003,12461
+27021,"Cass County, MN",Cass County,2004,7262
+27021,"Cass County, MN",Cass County,2005,14578
+27021,"Cass County, MN",Cass County,2006,7219
+27021,"Cass County, MN",Cass County,2007,3481
+27021,"Cass County, MN",Cass County,2008,5200
+27021,"Cass County, MN",Cass County,2009,-2453
+27021,"Cass County, MN",Cass County,2010,1006
+27021,"Cass County, MN",Cass County,2011,2365
+27021,"Cass County, MN",Cass County,2012,4481
+27021,"Cass County, MN",Cass County,2013,7172
+27021,"Cass County, MN",Cass County,2014,10718
+27021,"Cass County, MN",Cass County,2015,12535
+27023,"Chippewa County, MN",Chippewa County,2001,18402
+27023,"Chippewa County, MN",Chippewa County,2002,24544
+27023,"Chippewa County, MN",Chippewa County,2003,30492
+27023,"Chippewa County, MN",Chippewa County,2004,32393
+27023,"Chippewa County, MN",Chippewa County,2005,43045
+27023,"Chippewa County, MN",Chippewa County,2006,40065
+27023,"Chippewa County, MN",Chippewa County,2007,42794
+27023,"Chippewa County, MN",Chippewa County,2008,50983
+27023,"Chippewa County, MN",Chippewa County,2009,44285
+27023,"Chippewa County, MN",Chippewa County,2010,46022
+27023,"Chippewa County, MN",Chippewa County,2011,57903
+27023,"Chippewa County, MN",Chippewa County,2012,96461
+27023,"Chippewa County, MN",Chippewa County,2013,85830
+27023,"Chippewa County, MN",Chippewa County,2014,36296
+27023,"Chippewa County, MN",Chippewa County,2015,36121
+27025,"Chisago County, MN",Chisago County,2001,3094
+27025,"Chisago County, MN",Chisago County,2002,4785
+27025,"Chisago County, MN",Chisago County,2003,6727
+27025,"Chisago County, MN",Chisago County,2004,6018
+27025,"Chisago County, MN",Chisago County,2005,6730
+27025,"Chisago County, MN",Chisago County,2006,5672
+27025,"Chisago County, MN",Chisago County,2007,6343
+27025,"Chisago County, MN",Chisago County,2008,10273
+27025,"Chisago County, MN",Chisago County,2009,3832
+27025,"Chisago County, MN",Chisago County,2010,7863
+27025,"Chisago County, MN",Chisago County,2011,9917
+27025,"Chisago County, MN",Chisago County,2012,13389
+27025,"Chisago County, MN",Chisago County,2013,15455
+27025,"Chisago County, MN",Chisago County,2014,11734
+27025,"Chisago County, MN",Chisago County,2015,6188
+27027,"Clay County, MN",Clay County,2001,22360
+27027,"Clay County, MN",Clay County,2002,16033
+27027,"Clay County, MN",Clay County,2003,50133
+27027,"Clay County, MN",Clay County,2004,30582
+27027,"Clay County, MN",Clay County,2005,31506
+27027,"Clay County, MN",Clay County,2006,44809
+27027,"Clay County, MN",Clay County,2007,52100
+27027,"Clay County, MN",Clay County,2008,75873
+27027,"Clay County, MN",Clay County,2009,14593
+27027,"Clay County, MN",Clay County,2010,39400
+27027,"Clay County, MN",Clay County,2011,49580
+27027,"Clay County, MN",Clay County,2012,103745
+27027,"Clay County, MN",Clay County,2013,87476
+27027,"Clay County, MN",Clay County,2014,16400
+27027,"Clay County, MN",Clay County,2015,19303
+27029,"Clearwater County, MN",Clearwater County,2001,-699
+27029,"Clearwater County, MN",Clearwater County,2002,-470
+27029,"Clearwater County, MN",Clearwater County,2003,3428
+27029,"Clearwater County, MN",Clearwater County,2004,2301
+27029,"Clearwater County, MN",Clearwater County,2005,3833
+27029,"Clearwater County, MN",Clearwater County,2006,4101
+27029,"Clearwater County, MN",Clearwater County,2007,3419
+27029,"Clearwater County, MN",Clearwater County,2008,4559
+27029,"Clearwater County, MN",Clearwater County,2009,1077
+27029,"Clearwater County, MN",Clearwater County,2010,9351
+27029,"Clearwater County, MN",Clearwater County,2011,11165
+27029,"Clearwater County, MN",Clearwater County,2012,8309
+27029,"Clearwater County, MN",Clearwater County,2013,9859
+27029,"Clearwater County, MN",Clearwater County,2014,10882
+27029,"Clearwater County, MN",Clearwater County,2015,9792
+27031,"Cook County, MN",Cook County,2001,0
+27031,"Cook County, MN",Cook County,2002,0
+27031,"Cook County, MN",Cook County,2003,0
+27031,"Cook County, MN",Cook County,2004,0
+27031,"Cook County, MN",Cook County,2005,0
+27031,"Cook County, MN",Cook County,2006,0
+27031,"Cook County, MN",Cook County,2007,0
+27031,"Cook County, MN",Cook County,2008,0
+27031,"Cook County, MN",Cook County,2009,0
+27031,"Cook County, MN",Cook County,2010,0
+27031,"Cook County, MN",Cook County,2011,0
+27031,"Cook County, MN",Cook County,2012,0
+27031,"Cook County, MN",Cook County,2013,0
+27031,"Cook County, MN",Cook County,2014,0
+27031,"Cook County, MN",Cook County,2015,0
+27033,"Cottonwood County, MN",Cottonwood County,2001,23753
+27033,"Cottonwood County, MN",Cottonwood County,2002,28351
+27033,"Cottonwood County, MN",Cottonwood County,2003,32494
+27033,"Cottonwood County, MN",Cottonwood County,2004,53734
+27033,"Cottonwood County, MN",Cottonwood County,2005,57204
+27033,"Cottonwood County, MN",Cottonwood County,2006,41312
+27033,"Cottonwood County, MN",Cottonwood County,2007,46107
+27033,"Cottonwood County, MN",Cottonwood County,2008,66934
+27033,"Cottonwood County, MN",Cottonwood County,2009,43181
+27033,"Cottonwood County, MN",Cottonwood County,2010,53514
+27033,"Cottonwood County, MN",Cottonwood County,2011,90720
+27033,"Cottonwood County, MN",Cottonwood County,2012,106077
+27033,"Cottonwood County, MN",Cottonwood County,2013,92486
+27033,"Cottonwood County, MN",Cottonwood County,2014,60899
+27033,"Cottonwood County, MN",Cottonwood County,2015,61419
+27035,"Crow Wing County, MN",Crow Wing County,2001,-1251
+27035,"Crow Wing County, MN",Crow Wing County,2002,-1159
+27035,"Crow Wing County, MN",Crow Wing County,2003,1200
+27035,"Crow Wing County, MN",Crow Wing County,2004,1556
+27035,"Crow Wing County, MN",Crow Wing County,2005,2040
+27035,"Crow Wing County, MN",Crow Wing County,2006,1488
+27035,"Crow Wing County, MN",Crow Wing County,2007,2531
+27035,"Crow Wing County, MN",Crow Wing County,2008,-678
+27035,"Crow Wing County, MN",Crow Wing County,2009,12033
+27035,"Crow Wing County, MN",Crow Wing County,2010,22674
+27035,"Crow Wing County, MN",Crow Wing County,2011,25628
+27035,"Crow Wing County, MN",Crow Wing County,2012,4827
+27035,"Crow Wing County, MN",Crow Wing County,2013,4531
+27035,"Crow Wing County, MN",Crow Wing County,2014,3552
+27035,"Crow Wing County, MN",Crow Wing County,2015,2810
+27037,"Dakota County, MN",Dakota County,2001,17848
+27037,"Dakota County, MN",Dakota County,2002,25269
+27037,"Dakota County, MN",Dakota County,2003,35496
+27037,"Dakota County, MN",Dakota County,2004,41087
+27037,"Dakota County, MN",Dakota County,2005,40550
+27037,"Dakota County, MN",Dakota County,2006,36513
+27037,"Dakota County, MN",Dakota County,2007,38448
+27037,"Dakota County, MN",Dakota County,2008,46712
+27037,"Dakota County, MN",Dakota County,2009,46425
+27037,"Dakota County, MN",Dakota County,2010,56112
+27037,"Dakota County, MN",Dakota County,2011,72705
+27037,"Dakota County, MN",Dakota County,2012,79335
+27037,"Dakota County, MN",Dakota County,2013,73676
+27037,"Dakota County, MN",Dakota County,2014,41838
+27037,"Dakota County, MN",Dakota County,2015,35107
+27039,"Dodge County, MN",Dodge County,2001,11653
+27039,"Dodge County, MN",Dodge County,2002,12389
+27039,"Dodge County, MN",Dodge County,2003,15469
+27039,"Dodge County, MN",Dodge County,2004,31830
+27039,"Dodge County, MN",Dodge County,2005,38605
+27039,"Dodge County, MN",Dodge County,2006,26970
+27039,"Dodge County, MN",Dodge County,2007,32349
+27039,"Dodge County, MN",Dodge County,2008,34047
+27039,"Dodge County, MN",Dodge County,2009,19321
+27039,"Dodge County, MN",Dodge County,2010,38079
+27039,"Dodge County, MN",Dodge County,2011,62612
+27039,"Dodge County, MN",Dodge County,2012,84100
+27039,"Dodge County, MN",Dodge County,2013,87546
+27039,"Dodge County, MN",Dodge County,2014,35174
+27039,"Dodge County, MN",Dodge County,2015,20092
+27041,"Douglas County, MN",Douglas County,2001,8157
+27041,"Douglas County, MN",Douglas County,2002,8218
+27041,"Douglas County, MN",Douglas County,2003,13078
+27041,"Douglas County, MN",Douglas County,2004,18283
+27041,"Douglas County, MN",Douglas County,2005,18254
+27041,"Douglas County, MN",Douglas County,2006,11029
+27041,"Douglas County, MN",Douglas County,2007,8818
+27041,"Douglas County, MN",Douglas County,2008,22677
+27041,"Douglas County, MN",Douglas County,2009,6689
+27041,"Douglas County, MN",Douglas County,2010,13294
+27041,"Douglas County, MN",Douglas County,2011,15225
+27041,"Douglas County, MN",Douglas County,2012,34376
+27041,"Douglas County, MN",Douglas County,2013,31149
+27041,"Douglas County, MN",Douglas County,2014,17084
+27041,"Douglas County, MN",Douglas County,2015,19061
+27043,"Faribault County, MN",Faribault County,2001,-315
+27043,"Faribault County, MN",Faribault County,2002,18553
+27043,"Faribault County, MN",Faribault County,2003,29188
+27043,"Faribault County, MN",Faribault County,2004,52818
+27043,"Faribault County, MN",Faribault County,2005,59333
+27043,"Faribault County, MN",Faribault County,2006,42374
+27043,"Faribault County, MN",Faribault County,2007,67773
+27043,"Faribault County, MN",Faribault County,2008,68480
+27043,"Faribault County, MN",Faribault County,2009,47197
+27043,"Faribault County, MN",Faribault County,2010,46837
+27043,"Faribault County, MN",Faribault County,2011,97252
+27043,"Faribault County, MN",Faribault County,2012,117595
+27043,"Faribault County, MN",Faribault County,2013,111267
+27043,"Faribault County, MN",Faribault County,2014,48802
+27043,"Faribault County, MN",Faribault County,2015,31293
+27045,"Fillmore County, MN",Fillmore County,2001,8374
+27045,"Fillmore County, MN",Fillmore County,2002,-4032
+27045,"Fillmore County, MN",Fillmore County,2003,6200
+27045,"Fillmore County, MN",Fillmore County,2004,28048
+27045,"Fillmore County, MN",Fillmore County,2005,42653
+27045,"Fillmore County, MN",Fillmore County,2006,30703
+27045,"Fillmore County, MN",Fillmore County,2007,41648
+27045,"Fillmore County, MN",Fillmore County,2008,50985
+27045,"Fillmore County, MN",Fillmore County,2009,21023
+27045,"Fillmore County, MN",Fillmore County,2010,43297
+27045,"Fillmore County, MN",Fillmore County,2011,76083
+27045,"Fillmore County, MN",Fillmore County,2012,80666
+27045,"Fillmore County, MN",Fillmore County,2013,88851
+27045,"Fillmore County, MN",Fillmore County,2014,51212
+27045,"Fillmore County, MN",Fillmore County,2015,39901
+27047,"Freeborn County, MN",Freeborn County,2001,10791
+27047,"Freeborn County, MN",Freeborn County,2002,17079
+27047,"Freeborn County, MN",Freeborn County,2003,24787
+27047,"Freeborn County, MN",Freeborn County,2004,47519
+27047,"Freeborn County, MN",Freeborn County,2005,60093
+27047,"Freeborn County, MN",Freeborn County,2006,45820
+27047,"Freeborn County, MN",Freeborn County,2007,46734
+27047,"Freeborn County, MN",Freeborn County,2008,57918
+27047,"Freeborn County, MN",Freeborn County,2009,22866
+27047,"Freeborn County, MN",Freeborn County,2010,44706
+27047,"Freeborn County, MN",Freeborn County,2011,85678
+27047,"Freeborn County, MN",Freeborn County,2012,113454
+27047,"Freeborn County, MN",Freeborn County,2013,138262
+27047,"Freeborn County, MN",Freeborn County,2014,58210
+27047,"Freeborn County, MN",Freeborn County,2015,26539
+27049,"Goodhue County, MN",Goodhue County,2001,22419
+27049,"Goodhue County, MN",Goodhue County,2002,15216
+27049,"Goodhue County, MN",Goodhue County,2003,30238
+27049,"Goodhue County, MN",Goodhue County,2004,54211
+27049,"Goodhue County, MN",Goodhue County,2005,57163
+27049,"Goodhue County, MN",Goodhue County,2006,47599
+27049,"Goodhue County, MN",Goodhue County,2007,54549
+27049,"Goodhue County, MN",Goodhue County,2008,62928
+27049,"Goodhue County, MN",Goodhue County,2009,39121
+27049,"Goodhue County, MN",Goodhue County,2010,53752
+27049,"Goodhue County, MN",Goodhue County,2011,89083
+27049,"Goodhue County, MN",Goodhue County,2012,124574
+27049,"Goodhue County, MN",Goodhue County,2013,120471
+27049,"Goodhue County, MN",Goodhue County,2014,84118
+27049,"Goodhue County, MN",Goodhue County,2015,68883
+27051,"Grant County, MN",Grant County,2001,10931
+27051,"Grant County, MN",Grant County,2002,9482
+27051,"Grant County, MN",Grant County,2003,15506
+27051,"Grant County, MN",Grant County,2004,20220
+27051,"Grant County, MN",Grant County,2005,15773
+27051,"Grant County, MN",Grant County,2006,13702
+27051,"Grant County, MN",Grant County,2007,21634
+27051,"Grant County, MN",Grant County,2008,40445
+27051,"Grant County, MN",Grant County,2009,17858
+27051,"Grant County, MN",Grant County,2010,24940
+27051,"Grant County, MN",Grant County,2011,28192
+27051,"Grant County, MN",Grant County,2012,78668
+27051,"Grant County, MN",Grant County,2013,77439
+27051,"Grant County, MN",Grant County,2014,33948
+27051,"Grant County, MN",Grant County,2015,43650
+27053,"Hennepin County, MN",Hennepin County,2001,15776
+27053,"Hennepin County, MN",Hennepin County,2002,16679
+27053,"Hennepin County, MN",Hennepin County,2003,18758
+27053,"Hennepin County, MN",Hennepin County,2004,17343
+27053,"Hennepin County, MN",Hennepin County,2005,17627
+27053,"Hennepin County, MN",Hennepin County,2006,17915
+27053,"Hennepin County, MN",Hennepin County,2007,16845
+27053,"Hennepin County, MN",Hennepin County,2008,18584
+27053,"Hennepin County, MN",Hennepin County,2009,19328
+27053,"Hennepin County, MN",Hennepin County,2010,20642
+27053,"Hennepin County, MN",Hennepin County,2011,22989
+27053,"Hennepin County, MN",Hennepin County,2012,30306
+27053,"Hennepin County, MN",Hennepin County,2013,22290
+27053,"Hennepin County, MN",Hennepin County,2014,18338
+27053,"Hennepin County, MN",Hennepin County,2015,10996
+27055,"Houston County, MN",Houston County,2001,10745
+27055,"Houston County, MN",Houston County,2002,9558
+27055,"Houston County, MN",Houston County,2003,18001
+27055,"Houston County, MN",Houston County,2004,27052
+27055,"Houston County, MN",Houston County,2005,27889
+27055,"Houston County, MN",Houston County,2006,21813
+27055,"Houston County, MN",Houston County,2007,17727
+27055,"Houston County, MN",Houston County,2008,24838
+27055,"Houston County, MN",Houston County,2009,12921
+27055,"Houston County, MN",Houston County,2010,20473
+27055,"Houston County, MN",Houston County,2011,33955
+27055,"Houston County, MN",Houston County,2012,42936
+27055,"Houston County, MN",Houston County,2013,37402
+27055,"Houston County, MN",Houston County,2014,36862
+27055,"Houston County, MN",Houston County,2015,28381
+27057,"Hubbard County, MN",Hubbard County,2001,1904
+27057,"Hubbard County, MN",Hubbard County,2002,4517
+27057,"Hubbard County, MN",Hubbard County,2003,7241
+27057,"Hubbard County, MN",Hubbard County,2004,6304
+27057,"Hubbard County, MN",Hubbard County,2005,9946
+27057,"Hubbard County, MN",Hubbard County,2006,7209
+27057,"Hubbard County, MN",Hubbard County,2007,5366
+27057,"Hubbard County, MN",Hubbard County,2008,2447
+27057,"Hubbard County, MN",Hubbard County,2009,5215
+27057,"Hubbard County, MN",Hubbard County,2010,8434
+27057,"Hubbard County, MN",Hubbard County,2011,10807
+27057,"Hubbard County, MN",Hubbard County,2012,15822
+27057,"Hubbard County, MN",Hubbard County,2013,14391
+27057,"Hubbard County, MN",Hubbard County,2014,3628
+27057,"Hubbard County, MN",Hubbard County,2015,7705
+27059,"Isanti County, MN",Isanti County,2001,-980
+27059,"Isanti County, MN",Isanti County,2002,-583
+27059,"Isanti County, MN",Isanti County,2003,-1199
+27059,"Isanti County, MN",Isanti County,2004,2236
+27059,"Isanti County, MN",Isanti County,2005,1749
+27059,"Isanti County, MN",Isanti County,2006,1853
+27059,"Isanti County, MN",Isanti County,2007,2966
+27059,"Isanti County, MN",Isanti County,2008,1786
+27059,"Isanti County, MN",Isanti County,2009,-861
+27059,"Isanti County, MN",Isanti County,2010,490
+27059,"Isanti County, MN",Isanti County,2011,3645
+27059,"Isanti County, MN",Isanti County,2012,7564
+27059,"Isanti County, MN",Isanti County,2013,4318
+27059,"Isanti County, MN",Isanti County,2014,1457
+27059,"Isanti County, MN",Isanti County,2015,-1846
+27061,"Itasca County, MN",Itasca County,2001,627
+27061,"Itasca County, MN",Itasca County,2002,844
+27061,"Itasca County, MN",Itasca County,2003,1751
+27061,"Itasca County, MN",Itasca County,2004,1912
+27061,"Itasca County, MN",Itasca County,2005,1315
+27061,"Itasca County, MN",Itasca County,2006,1945
+27061,"Itasca County, MN",Itasca County,2007,2074
+27061,"Itasca County, MN",Itasca County,2008,-36
+27061,"Itasca County, MN",Itasca County,2009,-1023
+27061,"Itasca County, MN",Itasca County,2010,1859
+27061,"Itasca County, MN",Itasca County,2011,3368
+27061,"Itasca County, MN",Itasca County,2012,1096
+27061,"Itasca County, MN",Itasca County,2013,1742
+27061,"Itasca County, MN",Itasca County,2014,1067
+27061,"Itasca County, MN",Itasca County,2015,1762
+27063,"Jackson County, MN",Jackson County,2001,18057
+27063,"Jackson County, MN",Jackson County,2002,18499
+27063,"Jackson County, MN",Jackson County,2003,29208
+27063,"Jackson County, MN",Jackson County,2004,56776
+27063,"Jackson County, MN",Jackson County,2005,71935
+27063,"Jackson County, MN",Jackson County,2006,53426
+27063,"Jackson County, MN",Jackson County,2007,55328
+27063,"Jackson County, MN",Jackson County,2008,77610
+27063,"Jackson County, MN",Jackson County,2009,65462
+27063,"Jackson County, MN",Jackson County,2010,76803
+27063,"Jackson County, MN",Jackson County,2011,104208
+27063,"Jackson County, MN",Jackson County,2012,117709
+27063,"Jackson County, MN",Jackson County,2013,101387
+27063,"Jackson County, MN",Jackson County,2014,63797
+27063,"Jackson County, MN",Jackson County,2015,56605
+27065,"Kanabec County, MN",Kanabec County,2001,-578
+27065,"Kanabec County, MN",Kanabec County,2002,-449
+27065,"Kanabec County, MN",Kanabec County,2003,1632
+27065,"Kanabec County, MN",Kanabec County,2004,2854
+27065,"Kanabec County, MN",Kanabec County,2005,2080
+27065,"Kanabec County, MN",Kanabec County,2006,2781
+27065,"Kanabec County, MN",Kanabec County,2007,-727
+27065,"Kanabec County, MN",Kanabec County,2008,-2170
+27065,"Kanabec County, MN",Kanabec County,2009,-1799
+27065,"Kanabec County, MN",Kanabec County,2010,3625
+27065,"Kanabec County, MN",Kanabec County,2011,4210
+27065,"Kanabec County, MN",Kanabec County,2012,4624
+27065,"Kanabec County, MN",Kanabec County,2013,4935
+27065,"Kanabec County, MN",Kanabec County,2014,6627
+27065,"Kanabec County, MN",Kanabec County,2015,2220
+27067,"Kandiyohi County, MN",Kandiyohi County,2001,13487
+27067,"Kandiyohi County, MN",Kandiyohi County,2002,18511
+27067,"Kandiyohi County, MN",Kandiyohi County,2003,25057
+27067,"Kandiyohi County, MN",Kandiyohi County,2004,45546
+27067,"Kandiyohi County, MN",Kandiyohi County,2005,66044
+27067,"Kandiyohi County, MN",Kandiyohi County,2006,65272
+27067,"Kandiyohi County, MN",Kandiyohi County,2007,56547
+27067,"Kandiyohi County, MN",Kandiyohi County,2008,80601
+27067,"Kandiyohi County, MN",Kandiyohi County,2009,57293
+27067,"Kandiyohi County, MN",Kandiyohi County,2010,68358
+27067,"Kandiyohi County, MN",Kandiyohi County,2011,74612
+27067,"Kandiyohi County, MN",Kandiyohi County,2012,127419
+27067,"Kandiyohi County, MN",Kandiyohi County,2013,104158
+27067,"Kandiyohi County, MN",Kandiyohi County,2014,74218
+27067,"Kandiyohi County, MN",Kandiyohi County,2015,85917
+27069,"Kittson County, MN",Kittson County,2001,-2730
+27069,"Kittson County, MN",Kittson County,2002,7194
+27069,"Kittson County, MN",Kittson County,2003,43724
+27069,"Kittson County, MN",Kittson County,2004,13002
+27069,"Kittson County, MN",Kittson County,2005,10249
+27069,"Kittson County, MN",Kittson County,2006,18283
+27069,"Kittson County, MN",Kittson County,2007,30526
+27069,"Kittson County, MN",Kittson County,2008,71805
+27069,"Kittson County, MN",Kittson County,2009,4021
+27069,"Kittson County, MN",Kittson County,2010,22834
+27069,"Kittson County, MN",Kittson County,2011,23558
+27069,"Kittson County, MN",Kittson County,2012,66017
+27069,"Kittson County, MN",Kittson County,2013,53955
+27069,"Kittson County, MN",Kittson County,2014,16008
+27069,"Kittson County, MN",Kittson County,2015,16795
+27071,"Koochiching County, MN",Koochiching County,2001,656
+27071,"Koochiching County, MN",Koochiching County,2002,733
+27071,"Koochiching County, MN",Koochiching County,2003,1565
+27071,"Koochiching County, MN",Koochiching County,2004,1379
+27071,"Koochiching County, MN",Koochiching County,2005,1052
+27071,"Koochiching County, MN",Koochiching County,2006,794
+27071,"Koochiching County, MN",Koochiching County,2007,755
+27071,"Koochiching County, MN",Koochiching County,2008,1307
+27071,"Koochiching County, MN",Koochiching County,2009,1705
+27071,"Koochiching County, MN",Koochiching County,2010,2533
+27071,"Koochiching County, MN",Koochiching County,2011,2311
+27071,"Koochiching County, MN",Koochiching County,2012,2357
+27071,"Koochiching County, MN",Koochiching County,2013,4596
+27071,"Koochiching County, MN",Koochiching County,2014,3930
+27071,"Koochiching County, MN",Koochiching County,2015,4105
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2001,14780
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2002,15379
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2003,12799
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2004,36469
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2005,46152
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2006,36099
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2007,32177
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2008,44697
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2009,56754
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2010,61505
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2011,62844
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2012,94360
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2013,70868
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2014,20082
+27073,"Lac qui Parle County, MN",Lac qui Parle County,2015,25336
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2001,236
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2002,-607
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2003,8652
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2004,4478
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2005,2695
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2006,2367
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2007,2021
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2008,3044
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2009,209
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2010,1367
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2011,-502
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2012,5661
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2013,10055
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2014,4153
+27075,"Lake of the Woods County, MN",Lake of the Woods County,2015,7563
+27073,"Lake County, MN",Lake County,2001,-101
+27073,"Lake County, MN",Lake County,2002,-72
+27073,"Lake County, MN",Lake County,2003,13
+27073,"Lake County, MN",Lake County,2004,13
+27073,"Lake County, MN",Lake County,2005,61
+27073,"Lake County, MN",Lake County,2006,48
+27073,"Lake County, MN",Lake County,2007,69
+27073,"Lake County, MN",Lake County,2008,46
+27073,"Lake County, MN",Lake County,2009,64
+27073,"Lake County, MN",Lake County,2010,47
+27073,"Lake County, MN",Lake County,2011,71
+27073,"Lake County, MN",Lake County,2012,50
+27073,"Lake County, MN",Lake County,2013,34
+27073,"Lake County, MN",Lake County,2014,-5
+27073,"Lake County, MN",Lake County,2015,121
+27079,"Le Sueur County, MN",Le Sueur County,2001,7474
+27079,"Le Sueur County, MN",Le Sueur County,2002,6831
+27079,"Le Sueur County, MN",Le Sueur County,2003,12612
+27079,"Le Sueur County, MN",Le Sueur County,2004,25201
+27079,"Le Sueur County, MN",Le Sueur County,2005,26478
+27079,"Le Sueur County, MN",Le Sueur County,2006,23863
+27079,"Le Sueur County, MN",Le Sueur County,2007,19930
+27079,"Le Sueur County, MN",Le Sueur County,2008,32228
+27079,"Le Sueur County, MN",Le Sueur County,2009,16048
+27079,"Le Sueur County, MN",Le Sueur County,2010,20491
+27079,"Le Sueur County, MN",Le Sueur County,2011,30479
+27079,"Le Sueur County, MN",Le Sueur County,2012,52595
+27079,"Le Sueur County, MN",Le Sueur County,2013,43354
+27079,"Le Sueur County, MN",Le Sueur County,2014,25692
+27079,"Le Sueur County, MN",Le Sueur County,2015,17961
+27081,"Lincoln County, MN",Lincoln County,2001,10685
+27081,"Lincoln County, MN",Lincoln County,2002,4704
+27081,"Lincoln County, MN",Lincoln County,2003,11931
+27081,"Lincoln County, MN",Lincoln County,2004,18665
+27081,"Lincoln County, MN",Lincoln County,2005,27080
+27081,"Lincoln County, MN",Lincoln County,2006,16702
+27081,"Lincoln County, MN",Lincoln County,2007,18017
+27081,"Lincoln County, MN",Lincoln County,2008,28220
+27081,"Lincoln County, MN",Lincoln County,2009,21165
+27081,"Lincoln County, MN",Lincoln County,2010,28949
+27081,"Lincoln County, MN",Lincoln County,2011,42571
+27081,"Lincoln County, MN",Lincoln County,2012,47926
+27081,"Lincoln County, MN",Lincoln County,2013,41537
+27081,"Lincoln County, MN",Lincoln County,2014,23455
+27081,"Lincoln County, MN",Lincoln County,2015,33315
+27083,"Lyon County, MN",Lyon County,2001,17623
+27083,"Lyon County, MN",Lyon County,2002,13768
+27083,"Lyon County, MN",Lyon County,2003,18757
+27083,"Lyon County, MN",Lyon County,2004,44081
+27083,"Lyon County, MN",Lyon County,2005,56242
+27083,"Lyon County, MN",Lyon County,2006,44516
+27083,"Lyon County, MN",Lyon County,2007,56299
+27083,"Lyon County, MN",Lyon County,2008,74608
+27083,"Lyon County, MN",Lyon County,2009,43639
+27083,"Lyon County, MN",Lyon County,2010,62231
+27083,"Lyon County, MN",Lyon County,2011,75000
+27083,"Lyon County, MN",Lyon County,2012,86342
+27083,"Lyon County, MN",Lyon County,2013,92570
+27083,"Lyon County, MN",Lyon County,2014,69189
+27083,"Lyon County, MN",Lyon County,2015,94864
+27087,"Mahnomen County, MN",Mahnomen County,2001,2137
+27087,"Mahnomen County, MN",Mahnomen County,2002,-2409
+27087,"Mahnomen County, MN",Mahnomen County,2003,8793
+27087,"Mahnomen County, MN",Mahnomen County,2004,1635
+27087,"Mahnomen County, MN",Mahnomen County,2005,4718
+27087,"Mahnomen County, MN",Mahnomen County,2006,6272
+27087,"Mahnomen County, MN",Mahnomen County,2007,8505
+27087,"Mahnomen County, MN",Mahnomen County,2008,12662
+27087,"Mahnomen County, MN",Mahnomen County,2009,-4739
+27087,"Mahnomen County, MN",Mahnomen County,2010,899
+27087,"Mahnomen County, MN",Mahnomen County,2011,10350
+27087,"Mahnomen County, MN",Mahnomen County,2012,20703
+27087,"Mahnomen County, MN",Mahnomen County,2013,22162
+27087,"Mahnomen County, MN",Mahnomen County,2014,-948
+27087,"Mahnomen County, MN",Mahnomen County,2015,10709
+27089,"Marshall County, MN",Marshall County,2001,4257
+27089,"Marshall County, MN",Marshall County,2002,9765
+27089,"Marshall County, MN",Marshall County,2003,55562
+27089,"Marshall County, MN",Marshall County,2004,8552
+27089,"Marshall County, MN",Marshall County,2005,16948
+27089,"Marshall County, MN",Marshall County,2006,22858
+27089,"Marshall County, MN",Marshall County,2007,39644
+27089,"Marshall County, MN",Marshall County,2008,104535
+27089,"Marshall County, MN",Marshall County,2009,7064
+27089,"Marshall County, MN",Marshall County,2010,22334
+27089,"Marshall County, MN",Marshall County,2011,35640
+27089,"Marshall County, MN",Marshall County,2012,89481
+27089,"Marshall County, MN",Marshall County,2013,69388
+27089,"Marshall County, MN",Marshall County,2014,3370
+27089,"Marshall County, MN",Marshall County,2015,7748
+27091,"Martin County, MN",Martin County,2001,29723
+27091,"Martin County, MN",Martin County,2002,29722
+27091,"Martin County, MN",Martin County,2003,50969
+27091,"Martin County, MN",Martin County,2004,95591
+27091,"Martin County, MN",Martin County,2005,117694
+27091,"Martin County, MN",Martin County,2006,102682
+27091,"Martin County, MN",Martin County,2007,85268
+27091,"Martin County, MN",Martin County,2008,110634
+27091,"Martin County, MN",Martin County,2009,65498
+27091,"Martin County, MN",Martin County,2010,85258
+27091,"Martin County, MN",Martin County,2011,130935
+27091,"Martin County, MN",Martin County,2012,158526
+27091,"Martin County, MN",Martin County,2013,130287
+27091,"Martin County, MN",Martin County,2014,102368
+27091,"Martin County, MN",Martin County,2015,67060
+27085,"McLeod County, MN",McLeod County,2001,11168
+27085,"McLeod County, MN",McLeod County,2002,10412
+27085,"McLeod County, MN",McLeod County,2003,16099
+27085,"McLeod County, MN",McLeod County,2004,21888
+27085,"McLeod County, MN",McLeod County,2005,27913
+27085,"McLeod County, MN",McLeod County,2006,22079
+27085,"McLeod County, MN",McLeod County,2007,15100
+27085,"McLeod County, MN",McLeod County,2008,30036
+27085,"McLeod County, MN",McLeod County,2009,12332
+27085,"McLeod County, MN",McLeod County,2010,16412
+27085,"McLeod County, MN",McLeod County,2011,21611
+27085,"McLeod County, MN",McLeod County,2012,57185
+27085,"McLeod County, MN",McLeod County,2013,51726
+27085,"McLeod County, MN",McLeod County,2014,39808
+27085,"McLeod County, MN",McLeod County,2015,21089
+27093,"Meeker County, MN",Meeker County,2001,8274
+27093,"Meeker County, MN",Meeker County,2002,11537
+27093,"Meeker County, MN",Meeker County,2003,10502
+27093,"Meeker County, MN",Meeker County,2004,26066
+27093,"Meeker County, MN",Meeker County,2005,28438
+27093,"Meeker County, MN",Meeker County,2006,28309
+27093,"Meeker County, MN",Meeker County,2007,27787
+27093,"Meeker County, MN",Meeker County,2008,45544
+27093,"Meeker County, MN",Meeker County,2009,21506
+27093,"Meeker County, MN",Meeker County,2010,36972
+27093,"Meeker County, MN",Meeker County,2011,35621
+27093,"Meeker County, MN",Meeker County,2012,69566
+27093,"Meeker County, MN",Meeker County,2013,54764
+27093,"Meeker County, MN",Meeker County,2014,43440
+27093,"Meeker County, MN",Meeker County,2015,43493
+27095,"Mille Lacs County, MN",Mille Lacs County,2001,3827
+27095,"Mille Lacs County, MN",Mille Lacs County,2002,3521
+27095,"Mille Lacs County, MN",Mille Lacs County,2003,4091
+27095,"Mille Lacs County, MN",Mille Lacs County,2004,6853
+27095,"Mille Lacs County, MN",Mille Lacs County,2005,4388
+27095,"Mille Lacs County, MN",Mille Lacs County,2006,3097
+27095,"Mille Lacs County, MN",Mille Lacs County,2007,2201
+27095,"Mille Lacs County, MN",Mille Lacs County,2008,4722
+27095,"Mille Lacs County, MN",Mille Lacs County,2009,1631
+27095,"Mille Lacs County, MN",Mille Lacs County,2010,4282
+27095,"Mille Lacs County, MN",Mille Lacs County,2011,1194
+27095,"Mille Lacs County, MN",Mille Lacs County,2012,6995
+27095,"Mille Lacs County, MN",Mille Lacs County,2013,8786
+27095,"Mille Lacs County, MN",Mille Lacs County,2014,8579
+27095,"Mille Lacs County, MN",Mille Lacs County,2015,2451
+27097,"Morrison County, MN",Morrison County,2001,15979
+27097,"Morrison County, MN",Morrison County,2002,18206
+27097,"Morrison County, MN",Morrison County,2003,30107
+27097,"Morrison County, MN",Morrison County,2004,56430
+27097,"Morrison County, MN",Morrison County,2005,68361
+27097,"Morrison County, MN",Morrison County,2006,57451
+27097,"Morrison County, MN",Morrison County,2007,62559
+27097,"Morrison County, MN",Morrison County,2008,100715
+27097,"Morrison County, MN",Morrison County,2009,52185
+27097,"Morrison County, MN",Morrison County,2010,83631
+27097,"Morrison County, MN",Morrison County,2011,100190
+27097,"Morrison County, MN",Morrison County,2012,129353
+27097,"Morrison County, MN",Morrison County,2013,129964
+27097,"Morrison County, MN",Morrison County,2014,133467
+27097,"Morrison County, MN",Morrison County,2015,130183
+27099,"Mower County, MN",Mower County,2001,11659
+27099,"Mower County, MN",Mower County,2002,20699
+27099,"Mower County, MN",Mower County,2003,11867
+27099,"Mower County, MN",Mower County,2004,47429
+27099,"Mower County, MN",Mower County,2005,62055
+27099,"Mower County, MN",Mower County,2006,41540
+27099,"Mower County, MN",Mower County,2007,46864
+27099,"Mower County, MN",Mower County,2008,47672
+27099,"Mower County, MN",Mower County,2009,25166
+27099,"Mower County, MN",Mower County,2010,60317
+27099,"Mower County, MN",Mower County,2011,101163
+27099,"Mower County, MN",Mower County,2012,125206
+27099,"Mower County, MN",Mower County,2013,156151
+27099,"Mower County, MN",Mower County,2014,55214
+27099,"Mower County, MN",Mower County,2015,35158
+27101,"Murray County, MN",Murray County,2001,24960
+27101,"Murray County, MN",Murray County,2002,23944
+27101,"Murray County, MN",Murray County,2003,31904
+27101,"Murray County, MN",Murray County,2004,49834
+27101,"Murray County, MN",Murray County,2005,65492
+27101,"Murray County, MN",Murray County,2006,47559
+27101,"Murray County, MN",Murray County,2007,59400
+27101,"Murray County, MN",Murray County,2008,82767
+27101,"Murray County, MN",Murray County,2009,56279
+27101,"Murray County, MN",Murray County,2010,69344
+27101,"Murray County, MN",Murray County,2011,105786
+27101,"Murray County, MN",Murray County,2012,109163
+27101,"Murray County, MN",Murray County,2013,106087
+27101,"Murray County, MN",Murray County,2014,71049
+27101,"Murray County, MN",Murray County,2015,94500
+27103,"Nicollet County, MN",Nicollet County,2001,22374
+27103,"Nicollet County, MN",Nicollet County,2002,17364
+27103,"Nicollet County, MN",Nicollet County,2003,29612
+27103,"Nicollet County, MN",Nicollet County,2004,53145
+27103,"Nicollet County, MN",Nicollet County,2005,64487
+27103,"Nicollet County, MN",Nicollet County,2006,63311
+27103,"Nicollet County, MN",Nicollet County,2007,38513
+27103,"Nicollet County, MN",Nicollet County,2008,74008
+27103,"Nicollet County, MN",Nicollet County,2009,39478
+27103,"Nicollet County, MN",Nicollet County,2010,66808
+27103,"Nicollet County, MN",Nicollet County,2011,89409
+27103,"Nicollet County, MN",Nicollet County,2012,103767
+27103,"Nicollet County, MN",Nicollet County,2013,78690
+27103,"Nicollet County, MN",Nicollet County,2014,68916
+27103,"Nicollet County, MN",Nicollet County,2015,40471
+27105,"Nobles County, MN",Nobles County,2001,28171
+27105,"Nobles County, MN",Nobles County,2002,28694
+27105,"Nobles County, MN",Nobles County,2003,42146
+27105,"Nobles County, MN",Nobles County,2004,71306
+27105,"Nobles County, MN",Nobles County,2005,89306
+27105,"Nobles County, MN",Nobles County,2006,63152
+27105,"Nobles County, MN",Nobles County,2007,83869
+27105,"Nobles County, MN",Nobles County,2008,109197
+27105,"Nobles County, MN",Nobles County,2009,69569
+27105,"Nobles County, MN",Nobles County,2010,94719
+27105,"Nobles County, MN",Nobles County,2011,140109
+27105,"Nobles County, MN",Nobles County,2012,134811
+27105,"Nobles County, MN",Nobles County,2013,116272
+27105,"Nobles County, MN",Nobles County,2014,111756
+27105,"Nobles County, MN",Nobles County,2015,100975
+27107,"Norman County, MN",Norman County,2001,22926
+27107,"Norman County, MN",Norman County,2002,12494
+27107,"Norman County, MN",Norman County,2003,53364
+27107,"Norman County, MN",Norman County,2004,25730
+27107,"Norman County, MN",Norman County,2005,38371
+27107,"Norman County, MN",Norman County,2006,43424
+27107,"Norman County, MN",Norman County,2007,50185
+27107,"Norman County, MN",Norman County,2008,88703
+27107,"Norman County, MN",Norman County,2009,18880
+27107,"Norman County, MN",Norman County,2010,35581
+27107,"Norman County, MN",Norman County,2011,44683
+27107,"Norman County, MN",Norman County,2012,71149
+27107,"Norman County, MN",Norman County,2013,55172
+27107,"Norman County, MN",Norman County,2014,-237
+27107,"Norman County, MN",Norman County,2015,4459
+27109,"Olmsted County, MN",Olmsted County,2001,3671
+27109,"Olmsted County, MN",Olmsted County,2002,-932
+27109,"Olmsted County, MN",Olmsted County,2003,5681
+27109,"Olmsted County, MN",Olmsted County,2004,20753
+27109,"Olmsted County, MN",Olmsted County,2005,29648
+27109,"Olmsted County, MN",Olmsted County,2006,23384
+27109,"Olmsted County, MN",Olmsted County,2007,22935
+27109,"Olmsted County, MN",Olmsted County,2008,29053
+27109,"Olmsted County, MN",Olmsted County,2009,9486
+27109,"Olmsted County, MN",Olmsted County,2010,22105
+27109,"Olmsted County, MN",Olmsted County,2011,46574
+27109,"Olmsted County, MN",Olmsted County,2012,66966
+27109,"Olmsted County, MN",Olmsted County,2013,88011
+27109,"Olmsted County, MN",Olmsted County,2014,37610
+27109,"Olmsted County, MN",Olmsted County,2015,35060
+27111,"Otter Tail County, MN",Otter Tail County,2001,25677
+27111,"Otter Tail County, MN",Otter Tail County,2002,26320
+27111,"Otter Tail County, MN",Otter Tail County,2003,49838
+27111,"Otter Tail County, MN",Otter Tail County,2004,52338
+27111,"Otter Tail County, MN",Otter Tail County,2005,54891
+27111,"Otter Tail County, MN",Otter Tail County,2006,50113
+27111,"Otter Tail County, MN",Otter Tail County,2007,46389
+27111,"Otter Tail County, MN",Otter Tail County,2008,103338
+27111,"Otter Tail County, MN",Otter Tail County,2009,38999
+27111,"Otter Tail County, MN",Otter Tail County,2010,55003
+27111,"Otter Tail County, MN",Otter Tail County,2011,81585
+27111,"Otter Tail County, MN",Otter Tail County,2012,122282
+27111,"Otter Tail County, MN",Otter Tail County,2013,153516
+27111,"Otter Tail County, MN",Otter Tail County,2014,135901
+27111,"Otter Tail County, MN",Otter Tail County,2015,100578
+27113,"Pennington County, MN",Pennington County,2001,2685
+27113,"Pennington County, MN",Pennington County,2002,3024
+27113,"Pennington County, MN",Pennington County,2003,19591
+27113,"Pennington County, MN",Pennington County,2004,2361
+27113,"Pennington County, MN",Pennington County,2005,9273
+27113,"Pennington County, MN",Pennington County,2006,6503
+27113,"Pennington County, MN",Pennington County,2007,8930
+27113,"Pennington County, MN",Pennington County,2008,24878
+27113,"Pennington County, MN",Pennington County,2009,-3514
+27113,"Pennington County, MN",Pennington County,2010,5059
+27113,"Pennington County, MN",Pennington County,2011,14068
+27113,"Pennington County, MN",Pennington County,2012,30709
+27113,"Pennington County, MN",Pennington County,2013,27181
+27113,"Pennington County, MN",Pennington County,2014,12708
+27113,"Pennington County, MN",Pennington County,2015,18735
+27115,"Pine County, MN",Pine County,2001,4056
+27115,"Pine County, MN",Pine County,2002,1585
+27115,"Pine County, MN",Pine County,2003,4945
+27115,"Pine County, MN",Pine County,2004,7360
+27115,"Pine County, MN",Pine County,2005,5751
+27115,"Pine County, MN",Pine County,2006,7772
+27115,"Pine County, MN",Pine County,2007,8200
+27115,"Pine County, MN",Pine County,2008,9720
+27115,"Pine County, MN",Pine County,2009,5453
+27115,"Pine County, MN",Pine County,2010,9822
+27115,"Pine County, MN",Pine County,2011,12695
+27115,"Pine County, MN",Pine County,2012,13836
+27115,"Pine County, MN",Pine County,2013,11694
+27115,"Pine County, MN",Pine County,2014,16019
+27115,"Pine County, MN",Pine County,2015,8494
+27117,"Pipestone County, MN",Pipestone County,2001,20537
+27117,"Pipestone County, MN",Pipestone County,2002,10253
+27117,"Pipestone County, MN",Pipestone County,2003,18480
+27117,"Pipestone County, MN",Pipestone County,2004,35073
+27117,"Pipestone County, MN",Pipestone County,2005,45361
+27117,"Pipestone County, MN",Pipestone County,2006,36117
+27117,"Pipestone County, MN",Pipestone County,2007,36362
+27117,"Pipestone County, MN",Pipestone County,2008,58971
+27117,"Pipestone County, MN",Pipestone County,2009,45831
+27117,"Pipestone County, MN",Pipestone County,2010,74464
+27117,"Pipestone County, MN",Pipestone County,2011,98023
+27117,"Pipestone County, MN",Pipestone County,2012,105946
+27117,"Pipestone County, MN",Pipestone County,2013,86926
+27117,"Pipestone County, MN",Pipestone County,2014,97644
+27117,"Pipestone County, MN",Pipestone County,2015,71005
+27119,"Polk County, MN",Polk County,2001,21548
+27119,"Polk County, MN",Polk County,2002,13337
+27119,"Polk County, MN",Polk County,2003,79023
+27119,"Polk County, MN",Polk County,2004,28916
+27119,"Polk County, MN",Polk County,2005,46961
+27119,"Polk County, MN",Polk County,2006,65410
+27119,"Polk County, MN",Polk County,2007,72366
+27119,"Polk County, MN",Polk County,2008,164594
+27119,"Polk County, MN",Polk County,2009,52544
+27119,"Polk County, MN",Polk County,2010,71933
+27119,"Polk County, MN",Polk County,2011,97489
+27119,"Polk County, MN",Polk County,2012,159059
+27119,"Polk County, MN",Polk County,2013,184014
+27119,"Polk County, MN",Polk County,2014,50530
+27119,"Polk County, MN",Polk County,2015,25871
+27121,"Pope County, MN",Pope County,2001,9130
+27121,"Pope County, MN",Pope County,2002,10831
+27121,"Pope County, MN",Pope County,2003,17934
+27121,"Pope County, MN",Pope County,2004,25281
+27121,"Pope County, MN",Pope County,2005,31746
+27121,"Pope County, MN",Pope County,2006,17835
+27121,"Pope County, MN",Pope County,2007,16881
+27121,"Pope County, MN",Pope County,2008,36220
+27121,"Pope County, MN",Pope County,2009,16313
+27121,"Pope County, MN",Pope County,2010,24098
+27121,"Pope County, MN",Pope County,2011,29647
+27121,"Pope County, MN",Pope County,2012,67338
+27121,"Pope County, MN",Pope County,2013,64521
+27121,"Pope County, MN",Pope County,2014,31853
+27121,"Pope County, MN",Pope County,2015,25632
+27123,"Ramsey County, MN",Ramsey County,2001,1125
+27123,"Ramsey County, MN",Ramsey County,2002,919
+27123,"Ramsey County, MN",Ramsey County,2003,1188
+27123,"Ramsey County, MN",Ramsey County,2004,1077
+27123,"Ramsey County, MN",Ramsey County,2005,1137
+27123,"Ramsey County, MN",Ramsey County,2006,1210
+27123,"Ramsey County, MN",Ramsey County,2007,908
+27123,"Ramsey County, MN",Ramsey County,2008,1326
+27123,"Ramsey County, MN",Ramsey County,2009,1553
+27123,"Ramsey County, MN",Ramsey County,2010,1680
+27123,"Ramsey County, MN",Ramsey County,2011,1772
+27123,"Ramsey County, MN",Ramsey County,2012,2029
+27123,"Ramsey County, MN",Ramsey County,2013,1584
+27123,"Ramsey County, MN",Ramsey County,2014,1179
+27123,"Ramsey County, MN",Ramsey County,2015,997
+27125,"Red Lake County, MN",Red Lake County,2001,4211
+27125,"Red Lake County, MN",Red Lake County,2002,-332
+27125,"Red Lake County, MN",Red Lake County,2003,12820
+27125,"Red Lake County, MN",Red Lake County,2004,3043
+27125,"Red Lake County, MN",Red Lake County,2005,5454
+27125,"Red Lake County, MN",Red Lake County,2006,6077
+27125,"Red Lake County, MN",Red Lake County,2007,9575
+27125,"Red Lake County, MN",Red Lake County,2008,19078
+27125,"Red Lake County, MN",Red Lake County,2009,4945
+27125,"Red Lake County, MN",Red Lake County,2010,9402
+27125,"Red Lake County, MN",Red Lake County,2011,17780
+27125,"Red Lake County, MN",Red Lake County,2012,29718
+27125,"Red Lake County, MN",Red Lake County,2013,29475
+27125,"Red Lake County, MN",Red Lake County,2014,14397
+27125,"Red Lake County, MN",Red Lake County,2015,21795
+27127,"Redwood County, MN",Redwood County,2001,31142
+27127,"Redwood County, MN",Redwood County,2002,33662
+27127,"Redwood County, MN",Redwood County,2003,46512
+27127,"Redwood County, MN",Redwood County,2004,72785
+27127,"Redwood County, MN",Redwood County,2005,91344
+27127,"Redwood County, MN",Redwood County,2006,79439
+27127,"Redwood County, MN",Redwood County,2007,78921
+27127,"Redwood County, MN",Redwood County,2008,108650
+27127,"Redwood County, MN",Redwood County,2009,82137
+27127,"Redwood County, MN",Redwood County,2010,106671
+27127,"Redwood County, MN",Redwood County,2011,111429
+27127,"Redwood County, MN",Redwood County,2012,141167
+27127,"Redwood County, MN",Redwood County,2013,125833
+27127,"Redwood County, MN",Redwood County,2014,79371
+27127,"Redwood County, MN",Redwood County,2015,81605
+27129,"Renville County, MN",Renville County,2001,33719
+27129,"Renville County, MN",Renville County,2002,46646
+27129,"Renville County, MN",Renville County,2003,54816
+27129,"Renville County, MN",Renville County,2004,66317
+27129,"Renville County, MN",Renville County,2005,97411
+27129,"Renville County, MN",Renville County,2006,94447
+27129,"Renville County, MN",Renville County,2007,97138
+27129,"Renville County, MN",Renville County,2008,150988
+27129,"Renville County, MN",Renville County,2009,91335
+27129,"Renville County, MN",Renville County,2010,107904
+27129,"Renville County, MN",Renville County,2011,109114
+27129,"Renville County, MN",Renville County,2012,181808
+27129,"Renville County, MN",Renville County,2013,184608
+27129,"Renville County, MN",Renville County,2014,99669
+27129,"Renville County, MN",Renville County,2015,93099
+27131,"Rice County, MN",Rice County,2001,5775
+27131,"Rice County, MN",Rice County,2002,4348
+27131,"Rice County, MN",Rice County,2003,12872
+27131,"Rice County, MN",Rice County,2004,30527
+27131,"Rice County, MN",Rice County,2005,38096
+27131,"Rice County, MN",Rice County,2006,37489
+27131,"Rice County, MN",Rice County,2007,22305
+27131,"Rice County, MN",Rice County,2008,31017
+27131,"Rice County, MN",Rice County,2009,25898
+27131,"Rice County, MN",Rice County,2010,39271
+27131,"Rice County, MN",Rice County,2011,49474
+27131,"Rice County, MN",Rice County,2012,74060
+27131,"Rice County, MN",Rice County,2013,66553
+27131,"Rice County, MN",Rice County,2014,45137
+27131,"Rice County, MN",Rice County,2015,34586
+27133,"Rock County, MN",Rock County,2001,22071
+27133,"Rock County, MN",Rock County,2002,19099
+27133,"Rock County, MN",Rock County,2003,26638
+27133,"Rock County, MN",Rock County,2004,47331
+27133,"Rock County, MN",Rock County,2005,65543
+27133,"Rock County, MN",Rock County,2006,50337
+27133,"Rock County, MN",Rock County,2007,55276
+27133,"Rock County, MN",Rock County,2008,77827
+27133,"Rock County, MN",Rock County,2009,45743
+27133,"Rock County, MN",Rock County,2010,75593
+27133,"Rock County, MN",Rock County,2011,106746
+27133,"Rock County, MN",Rock County,2012,113974
+27133,"Rock County, MN",Rock County,2013,98800
+27133,"Rock County, MN",Rock County,2014,113804
+27133,"Rock County, MN",Rock County,2015,108166
+27135,"Roseau County, MN",Roseau County,2001,2897
+27135,"Roseau County, MN",Roseau County,2002,-2065
+27135,"Roseau County, MN",Roseau County,2003,49831
+27135,"Roseau County, MN",Roseau County,2004,3745
+27135,"Roseau County, MN",Roseau County,2005,7691
+27135,"Roseau County, MN",Roseau County,2006,15156
+27135,"Roseau County, MN",Roseau County,2007,17311
+27135,"Roseau County, MN",Roseau County,2008,48404
+27135,"Roseau County, MN",Roseau County,2009,-6319
+27135,"Roseau County, MN",Roseau County,2010,9784
+27135,"Roseau County, MN",Roseau County,2011,25410
+27135,"Roseau County, MN",Roseau County,2012,61179
+27135,"Roseau County, MN",Roseau County,2013,59919
+27135,"Roseau County, MN",Roseau County,2014,27401
+27135,"Roseau County, MN",Roseau County,2015,36230
+27139,"Scott County, MN",Scott County,2001,5076
+27139,"Scott County, MN",Scott County,2002,4286
+27139,"Scott County, MN",Scott County,2003,8983
+27139,"Scott County, MN",Scott County,2004,16060
+27139,"Scott County, MN",Scott County,2005,19146
+27139,"Scott County, MN",Scott County,2006,18769
+27139,"Scott County, MN",Scott County,2007,17821
+27139,"Scott County, MN",Scott County,2008,28610
+27139,"Scott County, MN",Scott County,2009,16853
+27139,"Scott County, MN",Scott County,2010,17688
+27139,"Scott County, MN",Scott County,2011,24387
+27139,"Scott County, MN",Scott County,2012,35213
+27139,"Scott County, MN",Scott County,2013,33178
+27139,"Scott County, MN",Scott County,2014,24094
+27139,"Scott County, MN",Scott County,2015,19325
+27141,"Sherburne County, MN",Sherburne County,2001,5403
+27141,"Sherburne County, MN",Sherburne County,2002,6578
+27141,"Sherburne County, MN",Sherburne County,2003,12264
+27141,"Sherburne County, MN",Sherburne County,2004,13102
+27141,"Sherburne County, MN",Sherburne County,2005,15004
+27141,"Sherburne County, MN",Sherburne County,2006,24535
+27141,"Sherburne County, MN",Sherburne County,2007,19751
+27141,"Sherburne County, MN",Sherburne County,2008,11142
+27141,"Sherburne County, MN",Sherburne County,2009,5874
+27141,"Sherburne County, MN",Sherburne County,2010,4909
+27141,"Sherburne County, MN",Sherburne County,2011,8403
+27141,"Sherburne County, MN",Sherburne County,2012,11321
+27141,"Sherburne County, MN",Sherburne County,2013,12598
+27141,"Sherburne County, MN",Sherburne County,2014,5154
+27141,"Sherburne County, MN",Sherburne County,2015,6198
+27143,"Sibley County, MN",Sibley County,2001,20359
+27143,"Sibley County, MN",Sibley County,2002,25583
+27143,"Sibley County, MN",Sibley County,2003,31181
+27143,"Sibley County, MN",Sibley County,2004,49347
+27143,"Sibley County, MN",Sibley County,2005,55774
+27143,"Sibley County, MN",Sibley County,2006,49520
+27143,"Sibley County, MN",Sibley County,2007,48749
+27143,"Sibley County, MN",Sibley County,2008,69932
+27143,"Sibley County, MN",Sibley County,2009,46064
+27143,"Sibley County, MN",Sibley County,2010,55946
+27143,"Sibley County, MN",Sibley County,2011,67141
+27143,"Sibley County, MN",Sibley County,2012,96195
+27143,"Sibley County, MN",Sibley County,2013,87352
+27143,"Sibley County, MN",Sibley County,2014,59996
+27143,"Sibley County, MN",Sibley County,2015,54617
+27143,"St. Louis County, MN",St. Louis County,2001,2158
+27143,"St. Louis County, MN",St. Louis County,2002,2052
+27143,"St. Louis County, MN",St. Louis County,2003,2447
+27143,"St. Louis County, MN",St. Louis County,2004,1935
+27143,"St. Louis County, MN",St. Louis County,2005,1410
+27143,"St. Louis County, MN",St. Louis County,2006,2122
+27143,"St. Louis County, MN",St. Louis County,2007,2974
+27143,"St. Louis County, MN",St. Louis County,2008,1947
+27143,"St. Louis County, MN",St. Louis County,2009,1433
+27143,"St. Louis County, MN",St. Louis County,2010,3950
+27143,"St. Louis County, MN",St. Louis County,2011,4641
+27143,"St. Louis County, MN",St. Louis County,2012,3811
+27143,"St. Louis County, MN",St. Louis County,2013,3742
+27143,"St. Louis County, MN",St. Louis County,2014,4237
+27143,"St. Louis County, MN",St. Louis County,2015,4636
+27145,"Stearns County, MN",Stearns County,2001,60743
+27145,"Stearns County, MN",Stearns County,2002,57008
+27145,"Stearns County, MN",Stearns County,2003,87443
+27145,"Stearns County, MN",Stearns County,2004,122311
+27145,"Stearns County, MN",Stearns County,2005,120553
+27145,"Stearns County, MN",Stearns County,2006,106897
+27145,"Stearns County, MN",Stearns County,2007,113653
+27145,"Stearns County, MN",Stearns County,2008,180678
+27145,"Stearns County, MN",Stearns County,2009,89012
+27145,"Stearns County, MN",Stearns County,2010,139738
+27145,"Stearns County, MN",Stearns County,2011,183937
+27145,"Stearns County, MN",Stearns County,2012,246720
+27145,"Stearns County, MN",Stearns County,2013,227662
+27145,"Stearns County, MN",Stearns County,2014,246885
+27145,"Stearns County, MN",Stearns County,2015,188628
+27147,"Steele County, MN",Steele County,2001,19998
+27147,"Steele County, MN",Steele County,2002,16580
+27147,"Steele County, MN",Steele County,2003,14262
+27147,"Steele County, MN",Steele County,2004,25813
+27147,"Steele County, MN",Steele County,2005,34004
+27147,"Steele County, MN",Steele County,2006,27171
+27147,"Steele County, MN",Steele County,2007,29816
+27147,"Steele County, MN",Steele County,2008,35498
+27147,"Steele County, MN",Steele County,2009,17183
+27147,"Steele County, MN",Steele County,2010,31369
+27147,"Steele County, MN",Steele County,2011,52929
+27147,"Steele County, MN",Steele County,2012,84221
+27147,"Steele County, MN",Steele County,2013,89536
+27147,"Steele County, MN",Steele County,2014,37368
+27147,"Steele County, MN",Steele County,2015,26519
+27149,"Stevens County, MN",Stevens County,2001,18549
+27149,"Stevens County, MN",Stevens County,2002,19934
+27149,"Stevens County, MN",Stevens County,2003,30891
+27149,"Stevens County, MN",Stevens County,2004,42342
+27149,"Stevens County, MN",Stevens County,2005,50371
+27149,"Stevens County, MN",Stevens County,2006,48435
+27149,"Stevens County, MN",Stevens County,2007,61337
+27149,"Stevens County, MN",Stevens County,2008,77421
+27149,"Stevens County, MN",Stevens County,2009,33407
+27149,"Stevens County, MN",Stevens County,2010,61589
+27149,"Stevens County, MN",Stevens County,2011,71939
+27149,"Stevens County, MN",Stevens County,2012,137174
+27149,"Stevens County, MN",Stevens County,2013,119656
+27149,"Stevens County, MN",Stevens County,2014,95207
+27149,"Stevens County, MN",Stevens County,2015,59930
+27151,"Swift County, MN",Swift County,2001,5145
+27151,"Swift County, MN",Swift County,2002,12398
+27151,"Swift County, MN",Swift County,2003,11931
+27151,"Swift County, MN",Swift County,2004,21541
+27151,"Swift County, MN",Swift County,2005,37317
+27151,"Swift County, MN",Swift County,2006,26134
+27151,"Swift County, MN",Swift County,2007,17598
+27151,"Swift County, MN",Swift County,2008,49249
+27151,"Swift County, MN",Swift County,2009,24925
+27151,"Swift County, MN",Swift County,2010,39404
+27151,"Swift County, MN",Swift County,2011,45425
+27151,"Swift County, MN",Swift County,2012,85446
+27151,"Swift County, MN",Swift County,2013,67447
+27151,"Swift County, MN",Swift County,2014,41007
+27151,"Swift County, MN",Swift County,2015,51804
+27153,"Todd County, MN",Todd County,2001,6428
+27153,"Todd County, MN",Todd County,2002,7060
+27153,"Todd County, MN",Todd County,2003,13756
+27153,"Todd County, MN",Todd County,2004,24540
+27153,"Todd County, MN",Todd County,2005,29880
+27153,"Todd County, MN",Todd County,2006,25657
+27153,"Todd County, MN",Todd County,2007,22192
+27153,"Todd County, MN",Todd County,2008,37754
+27153,"Todd County, MN",Todd County,2009,15362
+27153,"Todd County, MN",Todd County,2010,34283
+27153,"Todd County, MN",Todd County,2011,48395
+27153,"Todd County, MN",Todd County,2012,64817
+27153,"Todd County, MN",Todd County,2013,63339
+27153,"Todd County, MN",Todd County,2014,64502
+27153,"Todd County, MN",Todd County,2015,56166
+27155,"Traverse County, MN",Traverse County,2001,7754
+27155,"Traverse County, MN",Traverse County,2002,7763
+27155,"Traverse County, MN",Traverse County,2003,10498
+27155,"Traverse County, MN",Traverse County,2004,15421
+27155,"Traverse County, MN",Traverse County,2005,15308
+27155,"Traverse County, MN",Traverse County,2006,16427
+27155,"Traverse County, MN",Traverse County,2007,21437
+27155,"Traverse County, MN",Traverse County,2008,36469
+27155,"Traverse County, MN",Traverse County,2009,22975
+27155,"Traverse County, MN",Traverse County,2010,31853
+27155,"Traverse County, MN",Traverse County,2011,35392
+27155,"Traverse County, MN",Traverse County,2012,102082
+27155,"Traverse County, MN",Traverse County,2013,96068
+27155,"Traverse County, MN",Traverse County,2014,37844
+27155,"Traverse County, MN",Traverse County,2015,58298
+27157,"Wabasha County, MN",Wabasha County,2001,16364
+27157,"Wabasha County, MN",Wabasha County,2002,13679
+27157,"Wabasha County, MN",Wabasha County,2003,26276
+27157,"Wabasha County, MN",Wabasha County,2004,38112
+27157,"Wabasha County, MN",Wabasha County,2005,35689
+27157,"Wabasha County, MN",Wabasha County,2006,23194
+27157,"Wabasha County, MN",Wabasha County,2007,27996
+27157,"Wabasha County, MN",Wabasha County,2008,40857
+27157,"Wabasha County, MN",Wabasha County,2009,17648
+27157,"Wabasha County, MN",Wabasha County,2010,30124
+27157,"Wabasha County, MN",Wabasha County,2011,60010
+27157,"Wabasha County, MN",Wabasha County,2012,72252
+27157,"Wabasha County, MN",Wabasha County,2013,71944
+27157,"Wabasha County, MN",Wabasha County,2014,65269
+27157,"Wabasha County, MN",Wabasha County,2015,45584
+27159,"Wadena County, MN",Wadena County,2001,-2451
+27159,"Wadena County, MN",Wadena County,2002,-866
+27159,"Wadena County, MN",Wadena County,2003,1590
+27159,"Wadena County, MN",Wadena County,2004,3570
+27159,"Wadena County, MN",Wadena County,2005,6677
+27159,"Wadena County, MN",Wadena County,2006,5139
+27159,"Wadena County, MN",Wadena County,2007,5168
+27159,"Wadena County, MN",Wadena County,2008,11572
+27159,"Wadena County, MN",Wadena County,2009,7247
+27159,"Wadena County, MN",Wadena County,2010,10790
+27159,"Wadena County, MN",Wadena County,2011,16378
+27159,"Wadena County, MN",Wadena County,2012,18261
+27159,"Wadena County, MN",Wadena County,2013,21297
+27159,"Wadena County, MN",Wadena County,2014,15643
+27159,"Wadena County, MN",Wadena County,2015,16997
+27161,"Waseca County, MN",Waseca County,2001,12726
+27161,"Waseca County, MN",Waseca County,2002,13798
+27161,"Waseca County, MN",Waseca County,2003,19599
+27161,"Waseca County, MN",Waseca County,2004,35632
+27161,"Waseca County, MN",Waseca County,2005,45119
+27161,"Waseca County, MN",Waseca County,2006,34643
+27161,"Waseca County, MN",Waseca County,2007,44538
+27161,"Waseca County, MN",Waseca County,2008,73916
+27161,"Waseca County, MN",Waseca County,2009,45208
+27161,"Waseca County, MN",Waseca County,2010,63650
+27161,"Waseca County, MN",Waseca County,2011,92079
+27161,"Waseca County, MN",Waseca County,2012,103382
+27161,"Waseca County, MN",Waseca County,2013,104401
+27161,"Waseca County, MN",Waseca County,2014,68898
+27161,"Waseca County, MN",Waseca County,2015,55037
+27163,"Washington County, MN",Washington County,2001,21034
+27163,"Washington County, MN",Washington County,2002,23095
+27163,"Washington County, MN",Washington County,2003,22180
+27163,"Washington County, MN",Washington County,2004,19879
+27163,"Washington County, MN",Washington County,2005,22269
+27163,"Washington County, MN",Washington County,2006,23992
+27163,"Washington County, MN",Washington County,2007,20256
+27163,"Washington County, MN",Washington County,2008,26213
+27163,"Washington County, MN",Washington County,2009,30794
+27163,"Washington County, MN",Washington County,2010,32311
+27163,"Washington County, MN",Washington County,2011,37679
+27163,"Washington County, MN",Washington County,2012,39317
+27163,"Washington County, MN",Washington County,2013,30004
+27163,"Washington County, MN",Washington County,2014,20022
+27163,"Washington County, MN",Washington County,2015,17754
+27165,"Watonwan County, MN",Watonwan County,2001,16354
+27165,"Watonwan County, MN",Watonwan County,2002,15273
+27165,"Watonwan County, MN",Watonwan County,2003,22577
+27165,"Watonwan County, MN",Watonwan County,2004,53225
+27165,"Watonwan County, MN",Watonwan County,2005,56446
+27165,"Watonwan County, MN",Watonwan County,2006,46177
+27165,"Watonwan County, MN",Watonwan County,2007,39816
+27165,"Watonwan County, MN",Watonwan County,2008,50225
+27165,"Watonwan County, MN",Watonwan County,2009,35410
+27165,"Watonwan County, MN",Watonwan County,2010,44482
+27165,"Watonwan County, MN",Watonwan County,2011,75857
+27165,"Watonwan County, MN",Watonwan County,2012,75615
+27165,"Watonwan County, MN",Watonwan County,2013,60767
+27165,"Watonwan County, MN",Watonwan County,2014,29371
+27165,"Watonwan County, MN",Watonwan County,2015,21133
+27167,"Wilkin County, MN",Wilkin County,2001,15529
+27167,"Wilkin County, MN",Wilkin County,2002,14009
+27167,"Wilkin County, MN",Wilkin County,2003,38589
+27167,"Wilkin County, MN",Wilkin County,2004,29703
+27167,"Wilkin County, MN",Wilkin County,2005,23426
+27167,"Wilkin County, MN",Wilkin County,2006,28971
+27167,"Wilkin County, MN",Wilkin County,2007,27964
+27167,"Wilkin County, MN",Wilkin County,2008,53908
+27167,"Wilkin County, MN",Wilkin County,2009,5381
+27167,"Wilkin County, MN",Wilkin County,2010,31548
+27167,"Wilkin County, MN",Wilkin County,2011,26830
+27167,"Wilkin County, MN",Wilkin County,2012,73763
+27167,"Wilkin County, MN",Wilkin County,2013,71060
+27167,"Wilkin County, MN",Wilkin County,2014,10409
+27167,"Wilkin County, MN",Wilkin County,2015,10183
+27169,"Winona County, MN",Winona County,2001,21258
+27169,"Winona County, MN",Winona County,2002,14721
+27169,"Winona County, MN",Winona County,2003,22247
+27169,"Winona County, MN",Winona County,2004,40678
+27169,"Winona County, MN",Winona County,2005,39266
+27169,"Winona County, MN",Winona County,2006,26870
+27169,"Winona County, MN",Winona County,2007,35385
+27169,"Winona County, MN",Winona County,2008,41916
+27169,"Winona County, MN",Winona County,2009,21949
+27169,"Winona County, MN",Winona County,2010,48342
+27169,"Winona County, MN",Winona County,2011,84430
+27169,"Winona County, MN",Winona County,2012,94298
+27169,"Winona County, MN",Winona County,2013,84729
+27169,"Winona County, MN",Winona County,2014,85242
+27169,"Winona County, MN",Winona County,2015,51219
+27171,"Wright County, MN",Wright County,2001,5901
+27171,"Wright County, MN",Wright County,2002,5112
+27171,"Wright County, MN",Wright County,2003,13397
+27171,"Wright County, MN",Wright County,2004,30233
+27171,"Wright County, MN",Wright County,2005,32674
+27171,"Wright County, MN",Wright County,2006,29999
+27171,"Wright County, MN",Wright County,2007,26510
+27171,"Wright County, MN",Wright County,2008,36985
+27171,"Wright County, MN",Wright County,2009,25507
+27171,"Wright County, MN",Wright County,2010,27063
+27171,"Wright County, MN",Wright County,2011,31178
+27171,"Wright County, MN",Wright County,2012,50556
+27171,"Wright County, MN",Wright County,2013,41329
+27171,"Wright County, MN",Wright County,2014,36260
+27171,"Wright County, MN",Wright County,2015,18913
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2001,28892
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2002,22756
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2003,31106
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2004,50600
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2005,54998
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2006,39867
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2007,42397
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2008,59390
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2009,45422
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2010,61884
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2011,84588
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2012,90487
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2013,85914
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2014,42691
+27173,"Yellow Medicine County, MN",Yellow Medicine County,2015,73204
