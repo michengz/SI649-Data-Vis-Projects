@@ -5,4 +5,4 @@ After running this command, a website window should pop up. If a the web page di
 
 Notes:
 1. The annotations for the line graphs of the third visualization failed to show up for some reason, to see how it works properly, open the "interactive_dashboard.ipynb" file with Jupyter Notebook and run the file.
-2. Vis1, Vis2, and Vis3 were all coded from scratch using Altair, whereas for Vis4, I used Tableau ([Link to Tableau Public](https://public.tableau.com/views/CommVis_16365073470030/Dashboard8?:language=en-US&:retry=yes&publish=yes&:display_count=n&:origin=viz_share_link)).
+2. Vis1, Vis2, and Vis3 were all coded from scratch using the Python Altair package, whereas for Vis4, I used Tableau ([Link to Tableau Public](https://public.tableau.com/views/CommVis_16365073470030/Dashboard8?:language=en-US&:retry=yes&publish=yes&:display_count=n&:origin=viz_share_link)).
