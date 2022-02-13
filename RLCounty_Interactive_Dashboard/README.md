@@ -1,6 +1,6 @@
 ### Instructions
-For this project, I used Streamlit to deploy my interactive visualizations. After downloading and unzipping the directory, run the following command in the command line to run the visualizations on the web browser:
-```streamlit run interactive_dashboard.py```
+For this project, I used Streamlit to deploy my interactive visualizations. After downloading and unzipping the directory, run the following command in the command line to run the visualizations on the web browser:  
+```streamlit run interactive_dashboard.py```   
 After running this command, a website window should pop up. If a the web page didn't show up, copy and paste the "Local URL" into your browser. Enjoy playing around with the visualizations!
 
 Notes:
