@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!-- saved from url=(0681)https://a1770-21087336.cluster32.canvas-user-content.com/courses/1770~462749/files/1770~21087336/course%20files/03%20-%20Perception/lab/independent%20materials/empty_template_server_ver.html?download=1&inline=1&sf_verifier=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJ1c2VyX2lkIjoiMTc3MDAwMDAwMDA2MzcyMjkiLCJyb290X2FjY291bnRfaWQiOiIxNzcwMDAwMDAwMDAwMDAwMSIsIm9hdXRoX2hvc3QiOiJ1bWljaC5pbnN0cnVjdHVyZS5jb20iLCJyZXR1cm5fdXJsIjpudWxsLCJmYWxsYmFja191cmwiOiJodHRwczovL3VtaWNoLmluc3RydWN0dXJlLmNvbS9jb3Vyc2VzLzQ2Mjc0OS9maWxlcy8yMTA4NzMzNi9kb3dubG9hZD9mYWxsYmFja190cz0xNjMyODAzMjQyIiwiZXhwIjoxNjMyODAzNTQyfQ.34De6ndsDW3LbFCFV5QdFt6959HmM-csb1rLV0JxwxNbGIuhq7ZJm0Y1R1Cjj_4F1PW50JLh-gAZvzpiB3v2Ew -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<!-- required libs for embedding vega charts -->
+    <script type="text/javascript" src="./empty_template_server_ver_files/vega@5"></script>
+    <script type="text/javascript" src="./empty_template_server_ver_files/vega-lite@3.4.0"></script>
+    <script type="text/javascript" src="./empty_template_server_ver_files/vega-embed@4"></script>
+</head>
+<body>
+
+<!-- Location to insert the visualization. You can rename the id. -->
+<p>This is Chart1:</p>
+<div id="vis1"></div>
+
+<p>This is Chart2:</p>
+<div id="vis2"></div>
+
+<p>This is Chart3:</p>
+<div id="vis3"></div>
+
+<p>This is Chart4:</p>
+<div id="vis4"></div>
+
+<script type="text/javascript">
+	//assign the location of your chart specification to the variable "json_spec_addr"
+    // const json_spec_addr=;
+	//finding the dom with the id "visualization", and render chart "json_spec_addr" there.
+    vegaEmbed('#vis1', "./chart1.json",{}).then(function(result) {}).catch(console.error);
+    vegaEmbed('#vis2', "./chart2.json",{}).then(function(result) {}).catch(console.error);
+    vegaEmbed('#vis3', "./chart3.json",{}).then(function(result) {}).catch(console.error);
+    vegaEmbed('#vis4', "./chart4.json",{}).then(function(result) {}).catch(console.error);
+	//because you need to load the chart spec (in json),
+	//	the webpage will throw an error if you do not run a server 
+	
+</script>
+
+</body></html>
